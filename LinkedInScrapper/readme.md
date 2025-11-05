@@ -20,7 +20,7 @@
 
 ```bash
 streamlit run app_blog_generator.py    # Blog Generator
-streamlit run app_company_finder.py    # Company Intel
+streamlit run app_company_finder.py    # Company Intel(LinkedIn Scrapper )
 
 
 
